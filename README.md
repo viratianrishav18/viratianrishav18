@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @viratianrishav18
+- 👋 Hi, I’m @viratiarishav18
 - 👀 I’m interested in Data science 
 - 🌱 I’m currently learning python and ml
 - 💞️ I’m looking to collaborate on ...
